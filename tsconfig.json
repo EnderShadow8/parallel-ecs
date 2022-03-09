@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "noImplicitAny": true,
+    "alwaysStrict": true,
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importsNotUsedAsValues": "remove",
+  }
+}
